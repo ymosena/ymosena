@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Yasmin! 👋
 
 - 📕 Cursando Desenvolvimento de Software Multiplataforma
-- 🐍 Estudando Python
+- 🤖 Python, HTML, CSS
 - 😄 Pronomes: ela/dela
 
 <div align="center">
