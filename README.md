@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Yasmin! 👋
 
-- 📕 Cursando Desenvolvimento de Software Multiplataforma
-
-
 <div align="center">
   <a href="https://github.com/ymosena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ymosena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
