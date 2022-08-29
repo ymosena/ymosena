@@ -1,5 +1,4 @@
 ### Oii!!! Eu sou a Yasmin! 😊
- - Cursando Desenvolvimento de Sotware Multiplataforma 📕
 
 <div align="center">
   <a href="https://github.com/ymosena">
