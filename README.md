@@ -3,7 +3,7 @@
 <p><em>Student at <a href="http://www.unb.br](https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/)">Faculdade de Tecnologia de São José dos Campos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
-##<img src="https://media.giphy.com/media/2WeMnWhp9wQpVWe0Oq/giphy.gif" widht="50"> Languages and Tools:
+##<img src="https://media.giphy.com/media/2WeMnWhp9wQpVWe0Oq/giphy.gif" widht="10"> Languages and Tools:
 
 
 
