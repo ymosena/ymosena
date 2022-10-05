@@ -4,7 +4,7 @@
 </em></p>
 
 
-<!-- ### <img src="https://media.giphy.com/media/j3cfd9l4noFrKQI7KN/giphy.gif" width="30"> Languages and Tools: -->
+### <img src="https://media.giphy.com/media/j3cfd9l4noFrKQI7KN/giphy.gif" width="30"> Languages and Tools:
 <div>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
