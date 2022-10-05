@@ -2,8 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Student at <a href="http://www.unb.br](https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/)">Faculdade de Tecnologia de São José dos Campos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
+## 
 
-### <img src="https://media.giphy.com/media/j3cfd9l4noFrKQI7KN/giphy.gif"  width="30"> Languages and Tools:
+### <img src="https://media.giphy.com/media/j3cfd9l4noFrKQI7KN/giphy.gif" width="30"> Languages and Tools:
 <div>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
