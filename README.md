@@ -3,11 +3,11 @@
 <p><em>Student at <a href="http://www.unb.br](https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/)">Faculdade de Tecnologia de São José dos Campos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/raDwBLdZYDJYVAVBhU/giphy.gif" widht="50"> Languages and Tools:
+### <img src="https://media.giphy.com/media/raDwBLdZYDJYVAVBhU/giphy.gif" widht="10"> Languages and Tools:
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="10"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <div>
 <a href="https://www.instagram.com/ymosena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:yasmin.mosena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
