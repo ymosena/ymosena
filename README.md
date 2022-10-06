@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yasmin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="350">
 <p><em>Student at <a href="https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/">Faculdade de Tecnologia de São José dos Campos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> I’m currently learning Flask, MySQL and JavaScript <img src="https://media.giphy.com/media/lMr2FQCiqDSOmUWTpP/giphy.gif" width="30" > 
 </em></p>
 
