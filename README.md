@@ -20,7 +20,7 @@
   
 ##
   
- 	https://starchart.cc/{ymosena}/{TESTE-API-HOME}.svg 
+ 	https://starchart.cc/{ymosena}/{https://github.com/ymosena/TESTE-API-HOME.git}.svg 
   
  ![Snake animation](https://github.com/ymosena/ymosena/blob/output/github-contribution-grid-snake.svg)
 
