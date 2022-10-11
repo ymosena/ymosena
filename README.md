@@ -1,6 +1,6 @@
 <h2> Hi, I'm Yasmin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400">
-<p><em>Student at <a href="https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/">Faculdade de Tecnologia de São José dos Campos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Scientific Initiation Student at <a href="https://www.gov.br/inpe/pt-br">Instituto Nacional de Pesquisas Espaciais</a><img src="https://media.giphy.com/media/lMr2FQCiqDSOmUWTpP/giphy.gif" width="30" > 
+<p><em>Student at <a href="https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/">Faculdade de Tecnologia de São José dos Campos</a>></br> Scientific Initiation Student at <a href="https://www.gov.br/inpe/pt-br">Instituto Nacional de Pesquisas Espaciais</a>
 </em></p>
 
 
