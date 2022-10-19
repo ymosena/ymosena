@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yasmin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="300"
+<img align='right' src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="350"
 <p><em>Student at <a href="https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/">Faculdade de Tecnologia de São José dos Campos</a>
 </em></p>
 
@@ -9,6 +9,7 @@
 <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
 
