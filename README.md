@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yasmin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="450">
 <p><em>Student at <a href="https://www.cps.sp.gov.br/fatecs/fatec-sao-jose-dos-campos-prof-jessen-vidal/">Faculdade de Tecnologia de São José dos Campos</a>
 </em></p>
 
